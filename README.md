@@ -33,3 +33,12 @@ Invoke-RestMethod http://127.0.0.1:8000/metrics
 
 ## Scope
 The demo uses sample data and deterministic evaluation; it does not make real LLM calls or claim production readiness. Replace the sample cases and add provider integrations before production use.
+
+## Portfolio website
+
+[Project overview on GitHub Pages](https://gireeshvuyyuru501-design.github.io/llmops-quality-observability/) (static landing page; run API and Streamlit locally).
+
+[MIT License](LICENSE) | [Screenshots](screenshots/) | [Demo videos](demo/)
+
+**Scope:** MVP: synthetic monitoring data, not live provider billing or production tracing.
+
