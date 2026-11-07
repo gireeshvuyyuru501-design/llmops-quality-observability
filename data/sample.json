@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r1",
+    "latency_ms": 340,
+    "tokens": 220,
+    "usd_per_1k_tokens": 0.002,
+    "error": false,
+    "quality": 0.9
+  },
+  {
+    "id": "r2",
+    "latency_ms": 790,
+    "tokens": 510,
+    "usd_per_1k_tokens": 0.002,
+    "error": false,
+    "quality": 0.7
+  },
+  {
+    "id": "r3",
+    "latency_ms": 1200,
+    "tokens": 130,
+    "usd_per_1k_tokens": 0.002,
+    "error": true,
+    "quality": 0.1
+  },
+  {
+    "id": "r4",
+    "latency_ms": 410,
+    "tokens": 300,
+    "usd_per_1k_tokens": 0.002,
+    "error": false,
+    "quality": 0.85
+  }
+]
